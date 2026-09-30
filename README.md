@@ -9,7 +9,7 @@
 AIに、このリポジトリのリンクと資料を渡します。
 
 ```text
-https://github.com/n.souma2006/research-progress-summary
+https://github.com/nsouma2006-commits/research-progress-summary
 このSkillを使って、添付した研究メモから完全版HTMLの研究進捗報告を作成してください。
 事実、考察、仮説、予定を分け、前回報告がある場合は差分も整理してください。
 ```
